@@ -1,3 +1,13 @@
+# Added Notes
+
+This project was for a company I applied too. They wanted me to grab data from their backend and display it on the front-end.
+They provided me with an AdobeXD file and instucted me to convert it into html. 
+I know of only building it in React and doing the css manualy. This is not the most efficient way and this project took me 3 days to complete. 
+
+I love doing side projects like this, as they are the best teachers when it comes to learning these things.
+
+I've never done a OAuth get request, but this project forced me to learn how to add a header into the get request and additionaly taught me how to incorperate a .env file.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
